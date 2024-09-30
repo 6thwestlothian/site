@@ -1,0 +1,13 @@
+# Hugo build output directory
+public/
+
+# Hugo caches
+resources/_gen/
+
+# Local Netlify build files (if you're using Netlify)
+netlify.toml
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
