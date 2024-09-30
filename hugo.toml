@@ -19,7 +19,6 @@ publishDir = "docs"
 #baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
-
 ## -----------------------------------------------
 ## Hugo Built-in Features
 ## -----------------------------------------------
