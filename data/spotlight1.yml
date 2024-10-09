@@ -1,0 +1,18 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color3 invert"
+id: "squirrels"
+title: "Squirrels"
+
+logo: "images/logo-squirrels-white.png"
+
+content:
+  Squirrels can achieve anything they set their minds to – and they have lots of fun along the way!
+  Our Squirrel Drey is for young people aged 4 to 6 to take their first step into being part of Scouts, 
+  and they’ll help everyone get ready for the adventure of school too. Sessions will be packed with
+  outdoors activities, fun, games, badges, laughter, and so much more to help our youngest members learn
+  the skills they need for life.
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/photo-squirrels.jpg"

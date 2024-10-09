@@ -1,0 +1,19 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    <div class="content">
+
+        <div class="title-logo-container">
+            <img src="/images/scout-logo-white.png" alt="Scout Logo" class="scout-logo" />
+            {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        </div>
+
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="6th West Lothian" />
+    </div>{{end}}
+</section>

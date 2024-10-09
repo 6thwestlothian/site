@@ -1,0 +1,40 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+theme = "hugo-story"
+
+## This title is only used for the page title in the browser tab
+## to modify the title of the page itself you need to edit
+title = "6th West Lothian"
+
+languageCode = "en-GB"
+copyright = "2024"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "https://6thwestlothian.org.uk/"
+publishDir = "public"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "section"]
+# googleAnalytics = "G-XXXXXXXXXX"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+
+[Params.social]
+
+[Params.asset]
