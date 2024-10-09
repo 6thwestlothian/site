@@ -1,0 +1,21 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color6"
+id: "scouts"
+title : "Scouts"
+
+logo: "images/logo-scouts-black.png"
+
+content:
+  Scouts is all about taking on bigger challenges and discovering new adventures. Our Scout Troop is for
+  young people aged 10½ to 14 and they spend time outdoors, camping, hiking, or learning survival skills. 
+  They push themselves to try new things, from rock climbing to canoeing, while building confidence and 
+  resilience. Along the way, Scouts develop leadership skills and learn to solve problems as a team. It’s 
+  about gaining practical skills for life and building character traits like integrity and determination, 
+  all while having fun and making lasting friendships. Scouts are prepared for anything, ready to make
+  a difference in their communities and the world.
+
+button: 
+  label: "Learn More"
+  link: "#"
+
+image: "images/photo-scouts.jpg"

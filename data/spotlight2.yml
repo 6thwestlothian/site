@@ -1,0 +1,18 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color5 invert"
+id: "beavers"
+title : "Beavers"
+
+logo: "images/logo-beavers-white.png"
+
+content:
+  Our Beaver Colony is for young people aged 6 to 8 who are growing up and learning in small but mighty ways. 
+  Whether they're exploring the great outdoors or trying new activities, the most important skills our 
+  Beavers learn are the ones that will make them feel super strong standing on their own two feet. We call 
+  these character skills. They include things like integrity – which means being honest and doing what you 
+  think is right – and initiative – which means knowing how to take the lead on something without being asked. It’s all about having the courage to try new things and learn from them.
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/photo-beavers.jpg"

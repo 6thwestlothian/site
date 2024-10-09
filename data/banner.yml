@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right invert color1"
+title : "6th West Lothian Scout Group"
+subtitle: |
+  Scouting for young people in Broxburn and Uphall.
+content : |
+  Welcome to the 6th West Lothian Scout Group website. We are a highly active Group based in Broxburn 
+  in West Lothian and have been helping young people build skills for life for over 100 years.
+button:
+  label : "Join Us"
+  link : "#squirrels"
+image : "images/banner.jpg"

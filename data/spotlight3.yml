@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color2 invert"
+id: "cubs"
+title : "Cubs"
+
+logo: "images/logo-cubs-white.png"
+
+content:
+  Our Cub Pack is for young people aged 8 to 10½ and is all about adventure, learning, and teamwork. 
+  Cubs explore the outdoors, make new friends, and try exciting activities, like lighting fires and going 
+  on night hikes. Along the way, they pick up practical skills such as cooking and first aid, while 
+  developing important qualities like confidence, teamwork, and leadership. It’s not just about what 
+  they can do now — it’s about helping them grow into the best versions of themselves, ready to make a 
+  positive impact in their communities and beyond.
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/photo-cubs.jpg"
