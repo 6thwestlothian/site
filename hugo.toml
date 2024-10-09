@@ -33,8 +33,4 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
 
-<<<<<<< HEAD
 [Params.social]
-=======
-[Params.social]
->>>>>>> main
