@@ -1,6 +1,3 @@
-# Hugo build output directory
-public/
-
 # Hugo caches
 resources/_gen/
 

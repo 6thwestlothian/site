@@ -13,7 +13,7 @@ relativeURLs = "true"
 
 # Local
 baseURL = "/"
-publishDir = "public"
+publishDir = "docs"
 
 # Remote
 #baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
@@ -33,4 +33,8 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
 
+<<<<<<< HEAD
 [Params.social]
+=======
+[Params.social]
+>>>>>>> main
