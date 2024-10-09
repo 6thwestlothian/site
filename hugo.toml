@@ -31,5 +31,14 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
+  description = "6th West Lothian Scout Group"
+  logo = "images/banner.jpg"
+  favicon = true
 
 [Params.social]
+  email = "gsl@6thwestlothian.onmicrosoft.com"
+  facebook = "https://www.facebook.com/6thWestLothian/"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
