@@ -15,5 +15,5 @@ content:
 
 button: 
   label: "Learn More"
-  link: "#"
+  link: "#info"
 image: "images/photo-cubs.jpg"
