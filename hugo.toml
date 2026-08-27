@@ -36,7 +36,7 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  email = "gsl@6thwestlothian.onmicrosoft.com"
+  email = "gsl@6thwestlothian.org.uk"
   facebook = "https://www.facebook.com/6thWestLothian/"
 
 [Params.asset]
