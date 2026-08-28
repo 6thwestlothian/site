@@ -1,5 +1,6 @@
 # Hugo caches
 resources/_gen/
+.hugo_build.lock
 
 # Local Netlify build files (if you're using Netlify)
 netlify.toml
